@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Pricedown';
+  src: url('C:\Users\DELL\Desktop\GTA_VI\public\pricedown.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    font-family: "pricedown";
+}
